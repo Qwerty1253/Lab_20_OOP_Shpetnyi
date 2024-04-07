@@ -1,0 +1,15 @@
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\bin\Debug\Lab 20 OOP Danylko.exe.config
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\bin\Debug\Lab 20 OOP Danylko.exe
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\bin\Debug\Lab 20 OOP Danylko.pdb
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab 20 OOP Danylko.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab_20_OOP_Danylko.Form1.resources
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab_20_OOP_Danylko.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab 20 OOP Danylko.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab 20 OOP Danylko.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab 20 OOP Danylko.exe
+D:\Coding\Visual Studio\VS projects\Lab 20 OOP Danylko\obj\Debug\Lab 20 OOP Danylko.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 20 OOP Shpetnyi\obj\Debug\Lab 20 OOP Shpetnyi.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 20 OOP Shpetnyi\obj\Debug\Lab_20_OOP_Shpetnyi.Form1.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 20 OOP Shpetnyi\obj\Debug\Lab_20_OOP_Danylko.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 20 OOP Shpetnyi\obj\Debug\Lab 20 OOP Shpetnyi.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 20 OOP Shpetnyi\obj\Debug\Lab 20 OOP Shpetnyi.csproj.CoreCompileInputs.cache
